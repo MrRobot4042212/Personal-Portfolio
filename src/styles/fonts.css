@@ -1,0 +1,23 @@
+.montserrat-links {
+  font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.montserrat-tittle {
+    font-family: "Montserrat";
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .name-media-icon {
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 15px;
+    transition: color 0.3s;
+}
+
+
+
