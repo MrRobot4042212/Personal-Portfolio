@@ -30,7 +30,7 @@ const biografia = [
                           </li>
                       </ul>
                       <span>
-                        <img className='mi-img-row' src="./data/img/avatar-bio.jpg" alt="" />
+                        <img className='mi-img-row' src="data/img/avatar-bio.jpg" alt="" />
                       </span>
                     </div>
                   </section>
@@ -39,7 +39,7 @@ const biografia = [
                     <div className='content-wrap'>
                       <ul className='mi-text-wrap-container'>
                           <li datatype='indra'>
-                          <img className='text-wrap-icon' src="./data/img/icons/indra.jpg" alt="" />
+                          <img className='text-wrap-icon' src="data/img/icons/indra.jpg" alt="" />
                           <h2>INDRA Sistemas | Sistemas ATM</h2>
                           <h4>20/03/2023 – 11/06/2024</h4>
                           <p>
@@ -51,7 +51,7 @@ const biografia = [
 
                           </li>
                           <li datatype='infibail'>
-                          <img className='text-wrap-icon' src="./data/img/icons/infibail.png" alt="" />
+                          <img className='text-wrap-icon' src="data/img/icons/infibail.png" alt="" />
                           <h2>Infibail Ibérica | Técnico Informático</h2>
                           <h4>18/09/2021 – 21/06/2022</h4>
                           <p>
@@ -71,14 +71,14 @@ const biografia = [
                     <div className='content-wrap'>
                       <ul className='mi-text-wrap-container'>
                           <li>
-                          <img className='text-wrap-icon' src="./data/img/icons/UEM.png" alt="" />
+                          <img className='text-wrap-icon' src="data/img/icons/UEM.png" alt="" />
                           <h2>Grado de formación profesional superior 
                           Administración de Sistemas Informáticos en Red 
                           </h2>
                           <h4>18/09/2023 – 21/06/2024<br/>Universidad Europea, Madrid (Alcobendas).</h4>
                           </li>
                           <li>
-                          <img className='text-wrap-icon' src="./data/img/icons/SMA.png" alt="" />
+                          <img className='text-wrap-icon' src="data/img/icons/SMA.png" alt="" />
                           <h2>Grado de formación profesional medio 
                           Sistemas Microinformáticos y redes 
                           </h2>
@@ -92,13 +92,13 @@ const biografia = [
                     <div className='content-wrap'>
                       <ul className='mi-text-wrap-container'>
                       <li>
-                          <img className='text-wrap-icon' src="./data/img/icons/hardvard.png" alt="" />
+                          <img className='text-wrap-icon' src="data/img/icons/hardvard.png" alt="" />
                           <h2>CS50's Introduction to computer science
                           </h2>
                           <h4>19/05/2024 – Actualmente<br/>Harvard University. Instructor: David J. Malan</h4>
                       </li>
                       <li>
-                          <img className='text-wrap-icon' src="./data/img/icons/cisco.png" alt="" />
+                          <img className='text-wrap-icon' src="data/img/icons/cisco.png" alt="" />
                           <h2>JavaScript Essentials 1 (JSE)
                           </h2>
                           <h4>25/01/2024<br/>Universidad Europea de Madrid. Instructor: Adrián Ciudad Sanz</h4>
@@ -140,7 +140,7 @@ const proyectos = [
         <li className="li-container">
           <section className='flexZoom-container'>
               <UlBoxes
-                LiImg="./data/img/proyectos/EHN.png"
+                LiImg="data/img/proyectos/EHN.png"
                 LiTittle="El Hamiti News"
                 frontFirstTittle="¿Qué es El Hamiti News?"
                 frontfirstP="Trabajo fin de curso de ASIR 2024 (Grupo 5) - Universidad Europea de Madrid (Alcobendas)"
@@ -154,7 +154,7 @@ const proyectos = [
                     Download: ""
                   },
                   {
-                    url: "./data/utils/Grupo05_Memoria_ElHamitiNews.pdf",
+                    url: "data/utils/Grupo05_Memoria_ElHamitiNews.pdf",
                     socialName: "Memoria",
                     iconSrc: <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ai ai-Download"><path d="M12 15V3m0 12l-4-4m4 4l4-4"/><path d="M2 17l.621 2.485A2 2 0 0 0 4.561 21H19.439a2 2 0 0 0 1.94-1.515L22 17"/></svg>,
                     Download: "UEM_ALCOBENDAS_ASIR_Grupo05_Memoria.pdf"
@@ -162,7 +162,7 @@ const proyectos = [
                 ]}
               />
               <UlBoxes
-                LiImg="./data/img/proyectos/maraboo.png"
+                LiImg="data/img/proyectos/maraboo.png"
                 LiTittle="La Mirada de Maraboo"
                 frontFirstTittle="¿Qué es La Mirada de Maraboo?"
                 frontfirstP='Proyecto de sitio web para la asociación sin ánimo de lucro "La Mirada de Maraboo" (En desarrollo)'
@@ -185,7 +185,7 @@ const proyectos = [
                 ]}
               />
               <UlBoxes
-                LiImg="./data/img/proyectos/logo.png"
+                LiImg="data/img/proyectos/logo.png"
                 LiTittle="PowerPulse"
                 frontFirstTittle="¿Qué es PowerPulse?"
                 frontfirstP='Proyecto de sitio web / aplicación movil que tiene diferentes herramientas para ayudarte en tu viaje fitness (En desarrollo)'
@@ -207,7 +207,7 @@ const proyectos = [
                 ]}
               />
               <UlBoxes
-                LiImg="./data/img/proyectos/FNC.png"
+                LiImg="data/img/proyectos/FNC.png"
                 LiTittle="FilmsNCritics"
                 frontFirstTittle="¿Qué es FilmsNCritics ?"
                 frontfirstP='Trabajo de realización de un sitio web para la asignatura implantacion web de 1ºASIR'
