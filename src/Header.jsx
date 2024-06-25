@@ -15,7 +15,7 @@ export function Header() {
     return(
         <header>            
             <section>
-                <img className="hd-avatar" src="../data/img/avatar-bio-2.jpg" alt="" />
+                <img className="hd-avatar" src="./data/img/avatar-bio-2.jpg" alt="" />
             </section>
             <aside>
                 <h1 className="hd-name"> 
