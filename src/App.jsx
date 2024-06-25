@@ -39,7 +39,7 @@ const biografia = [
                     <div className='content-wrap'>
                       <ul className='mi-text-wrap-container'>
                           <li datatype='indra'>
-                          <img className='text-wrap-icon' src="./data/img/iconos/indra_logo.jpeg" alt="" />
+                          <img className='text-wrap-icon' src="./data/img/icons/indra.jpg" alt="" />
                           <h2>INDRA Sistemas | Sistemas ATM</h2>
                           <h4>20/03/2023 – 11/06/2024</h4>
                           <p>
@@ -51,7 +51,7 @@ const biografia = [
 
                           </li>
                           <li datatype='infibail'>
-                          <img className='text-wrap-icon' src="./data/img/iconos/infibail.png" alt="" />
+                          <img className='text-wrap-icon' src="./data/img/icons/infibail.png" alt="" />
                           <h2>Infibail Ibérica | Técnico Informático</h2>
                           <h4>18/09/2021 – 21/06/2022</h4>
                           <p>
@@ -71,14 +71,14 @@ const biografia = [
                     <div className='content-wrap'>
                       <ul className='mi-text-wrap-container'>
                           <li>
-                          <img className='text-wrap-icon' src="./data/img/iconos/UEM.png" alt="" />
+                          <img className='text-wrap-icon' src="./data/img/icons/UEM.png" alt="" />
                           <h2>Grado de formación profesional superior 
                           Administración de Sistemas Informáticos en Red 
                           </h2>
                           <h4>18/09/2023 – 21/06/2024<br/>Universidad Europea, Madrid (Alcobendas).</h4>
                           </li>
                           <li>
-                          <img className='text-wrap-icon' src="./data/img/iconos/Santamaria.png" alt="" />
+                          <img className='text-wrap-icon' src="./data/img/icons/SMA.png" alt="" />
                           <h2>Grado de formación profesional medio 
                           Sistemas Microinformáticos y redes 
                           </h2>
@@ -92,17 +92,31 @@ const biografia = [
                     <div className='content-wrap'>
                       <ul className='mi-text-wrap-container'>
                       <li>
-                          <img className='text-wrap-icon' src="./data/img/iconos/Harvard_University_coat_of_arms.svg.png" alt="" />
+                          <img className='text-wrap-icon' src="./data/img/icons/hardvard.png" alt="" />
                           <h2>CS50's Introduction to computer science
                           </h2>
-                          <h4>19/05/2024 – Actualmente<br/>Harvard University.</h4>
+                          <h4>19/05/2024 – Actualmente<br/>Harvard University. Instructor: David J. Malan</h4>
                       </li>
                       <li>
-                          <img className='text-wrap-icon' src="./data/img/iconos/640px-Cisco_logo_blue_2016.svg.png" alt="" />
-                          <h2>CS50's Introduction to computer science
+                          <img className='text-wrap-icon' src="./data/img/icons/cisco.png" alt="" />
+                          <h2>JavaScript Essentials 1 (JSE)
                           </h2>
-                          <h4>19/05/2024 – Actualmente<br/>Harvard University.</h4>
+                          <h4>25/01/2024<br/>Universidad Europea de Madrid. Instructor: Adrián Ciudad Sanz</h4>
+                          <h2>Cybersecurity Essentials</h2>
+                          <h4>11/12/2023<br />Universidad Europea de Madrid. Instructor: Adrián Ciudad Sanz </h4>
                       </li>
+                      </ul>
+                      <ul className='mi-text-wrap-container'>
+                          <h2>Big Data & Analytics </h2>
+                          <h4>11/12/2023<br />Universidad Europea de Madrid. Instructor: Adrián Ciudad Sanz</h4>
+                          <h2>Introduction to Cybersecurity</h2>
+                          <h4>30/11/2023<br />Universidad Europea de Madrid. Instructor: Adrián Ciudad Sanz</h4>
+                          <h2>NDG Linux Essentials</h2>
+                          <h4>10/01/2023<br />Universidad Europea de Madrid. Instructor: Ismael El Hamiti Molina </h4>
+                          <h2>CCNAv7: Introducción a Redes </h2>
+                          <h4>21/06/2021<br />I.E.S Santa María de los Apóstoles. Instructor </h4>
+                      </ul>
+                      <ul className='mi-text-wrap-container'>
 
                       </ul>
                     </div>
