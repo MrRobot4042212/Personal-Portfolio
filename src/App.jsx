@@ -98,7 +98,7 @@ const biografia = [
                           <h4>19/05/2024 – Actualmente<br/>Harvard University. Instructor: David J. Malan</h4>
                       </li>
                       <li>
-                          <img className='text-wrap-icon' src="img/icons/cisco.png" alt="" />
+                          <img className='text-wrap-icon' src="img/icons/cisco.jpg" alt="" />
                           <h2>JavaScript Essentials 1 (JSE)
                           </h2>
                           <h4>25/01/2024<br/>Universidad Europea de Madrid. Instructor: Adrián Ciudad Sanz</h4>
@@ -114,7 +114,7 @@ const biografia = [
                           <h2>NDG Linux Essentials</h2>
                           <h4>10/01/2023<br />Universidad Europea de Madrid. Instructor: Ismael El Hamiti Molina </h4>
                           <h2>CCNAv7: Introducción a Redes </h2>
-                          <h4>21/06/2021<br />I.E.S Santa María de los Apóstoles. Instructor </h4>
+                          <h4>21/06/2021<br />I.E.S Santa María de los Apóstoles. Instructor: Ricardo Laorga Suárez </h4>
                       </ul>
                       <ul className='mi-text-wrap-container'>
 
@@ -162,7 +162,7 @@ const proyectos = [
                 ]}
               />
               <UlBoxes
-                LiImg="/img/proyectos/maraboo.png"
+                LiImg="img/proyectos/maraboo.png"
                 LiTittle="La Mirada de Maraboo"
                 frontFirstTittle="¿Qué es La Mirada de Maraboo?"
                 frontfirstP='Proyecto de sitio web para la asociación sin ánimo de lucro "La Mirada de Maraboo" (En desarrollo)'
@@ -252,6 +252,8 @@ const aptitudes =[
                     { liItemName: "HTML5" },
                     { liItemName: "CSS" },
                     { liItemName: "Vanilla javaScript" },
+                    { liItemName: "Npm" },
+                    { liItemName: "Vite"},
                     { liItemName: "React.js" },
                     { liItemName: "JQuery" },
                     { liItemName: "Sass" },
@@ -302,8 +304,7 @@ const aptitudes =[
                     liItemNames={[
                       { liItemName: "Docker" },
                       { liItemName: "Kubernetes" },
-                      { liItemName: "NPM" },
-                      { liItemName: "Vite"},
+                      { liItemName: "LXC" },
                       { liItemName: "VMware Workstation"},
                       { liItemName: "Oracle VM VirtualBox"},
 
