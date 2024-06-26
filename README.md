@@ -9,6 +9,6 @@ Proyectos Fullstack: Aplicaciones completas que integran frontend y backend, uti
 
 Frontend: HTML, CSS, React
 
-##Contacto
+## Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi correo electrónico o conectar conmigo en LinkedIn.
